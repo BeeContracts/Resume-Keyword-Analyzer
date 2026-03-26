@@ -1,0 +1,5 @@
+# Standard library app by default
+# Optional packaging dependency:
+# pyinstaller
+# Optional drag-and-drop support:
+# tkinterdnd2
